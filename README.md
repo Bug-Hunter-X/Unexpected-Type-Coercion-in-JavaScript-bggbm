@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error caused by loose typing. The `foo` function, when passed a number and string, concatenates them instead of performing addition. The solution shows how to enforce type checking to avoid this unexpected behavior.
